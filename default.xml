@@ -12,7 +12,7 @@
     <copyfile src="makefile" dest="Makefile" />
   </project>
   <project path="manifest" name="MiCode/patchrom" />
-  <project path="android" name="MiCode/patchrom_android" />
+  <project path="android" name="User/patchrom_android" />
   <project path="miui" name="MiCode/patchrom_miui" />
   <project path="tools" name="MiCode/patchrom_tools"/>
 </manifest>
